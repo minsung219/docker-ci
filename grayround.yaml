@@ -18,7 +18,7 @@ spec:
         app: grayround
     spec:
       containers:
-      - image: kimms1/grayround:v1.0
+      - image: docker.io/kimms1/grayround:v1.0
         name: grayround
         ports:
         - containerPort: 80
