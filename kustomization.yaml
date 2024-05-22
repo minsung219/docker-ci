@@ -1,5 +1,3 @@
-namePrefix: kustomize-
-
 resources:
 - grayround.yaml
 - grayround-svc.yaml
